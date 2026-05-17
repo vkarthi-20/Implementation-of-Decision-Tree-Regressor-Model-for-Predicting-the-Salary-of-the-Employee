@@ -72,30 +72,7 @@ print("Predicted Salary:", prediction[0])
 ```
 
 ## Output:
-
-
-
-<img width="377" height="135" alt="Screenshot 2026-05-17 174819" src="https://github.com/user-attachments/assets/ed79b0c9-8cf5-4886-a4a5-8f4b8c1bbe5c" />
-
-
-
-
-<img width="363" height="212" alt="Screenshot 2026-05-17 174856" src="https://github.com/user-attachments/assets/6745f5cf-7544-4e1f-81c8-d1c2e4dd2b8d" />
-
-
-
-
-<img width="173" height="106" alt="Screenshot 2026-05-17 174906" src="https://github.com/user-attachments/assets/1690de58-c540-43d1-a2f5-58b36d9626c3" />
-
-
-
-
-<img width="391" height="166" alt="Screenshot 2026-05-17 174946" src="https://github.com/user-attachments/assets/56f7afb0-1b4e-4e71-8647-921328581794" />
-
-
-
-
-<img width="342" height="62" alt="Screenshot 2026-05-17 175016" src="https://github.com/user-attachments/assets/238eb1cd-c863-45ac-b237-636b2a6418e7" />
+<img width="387" height="647" alt="image" src="https://github.com/user-attachments/assets/758f85aa-aff3-4472-a5aa-84918273e585" />
 
 
 ## Result:
